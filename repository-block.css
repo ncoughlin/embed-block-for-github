@@ -10,6 +10,7 @@
 	box-shadow: 10px 10px 15px 0px rgba(0,0,0,0.75);
 	border-radius: .5em;
 	border: 1px solid #eee;
+	z-index: -1;
 }
 
 .ebg-br-wrapper-dark-mode-on {
